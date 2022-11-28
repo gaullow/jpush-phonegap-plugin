@@ -1,6 +1,6 @@
 # 集成厂商推送
 ```shell
-cordova plugin add https://github.com/jpush/jpush-phonegap-plugin.git --variable APP_KEY=your_jpush_appkey
+cordova plugin add https://github.com/gaullow/jpush-phonegap-plugin.git --variable APP_KEY=your_jpush_appkey
 ```
 # 配置
 ```
